@@ -1,7 +1,7 @@
 # Shopping Cart
 This project is about a Shopping Cart site Template using REACT JS
 
-OUTPUT - https://sathyagar-shopping-cart.netlify.app
+OUTPUT - https://sathyagar-shopping.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
